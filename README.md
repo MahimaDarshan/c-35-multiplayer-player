@@ -1,1 +1,2 @@
-# c-35-multiplayer-player
+# synchronousBallMovement
+Ball moving synchronously
